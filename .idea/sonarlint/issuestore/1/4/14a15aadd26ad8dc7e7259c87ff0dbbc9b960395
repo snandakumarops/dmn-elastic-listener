@@ -1,0 +1,21 @@
+
+E
+java:S3740R"/Provide the parametrized type for this generic.(¶Ğ™ñ
+E
+java:S3740n"/Provide the parametrized type for this generic.(¶Ğ™ñ
+>
+java:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+
+java:S1488;"dImmediately return this expression instead of assigning it to the temporary variable "resultString".(§­å¨ûÿÿÿÿ
+v
+java:S1450"[Remove the "kieContainer" field and declare it as a local variable in the relevant methods.(Ş­£ıÿÿÿÿ
+H
+java:S1172"-Remove this unused method parameter "custId".(¿áƒÁşÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "resultJson".(åÜî¢ıÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(şÛ¨şÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(«çÆéüÿÿÿÿ
+J
+java:S1481"/Remove this unused "resultJson" local variable.(åÜî¢ıÿÿÿÿ
+K
+java:S1068"0Remove this unused "kieContainer" private field.(Ş­£ıÿÿÿÿ
